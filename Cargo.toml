@@ -1,0 +1,11 @@
+[package]
+name = "nonogram"
+version = "0.1.0"
+authors = ["rubenwardy <rw@rubenwardy.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "nonogram"
+path = "main.rs"
